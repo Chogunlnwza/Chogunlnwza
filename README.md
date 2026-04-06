@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Panuwit
 
-<!--
-**Chogunlnwza/Chogunlnwza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 📊 Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about software development, artificial intelligence, and data analytics. I enjoy building applications and transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* 💻 Programming: Python, Dart
+* 📱 Development: Flutter
+* 📊 Data: SQL, Pandas, Machine Learning
+* ⚙️ Tools: Git, FastAPI
+
+---
+
+## 📌 Featured Projects
+
+### 📱 Smart Member App
+
+* Cross-platform mobile app for sports booking
+* Built with Flutter
+
+### 🤖 Computer Vision Project
+
+* Image processing and detection using Python
+
+### 🌦️ Weather Prediction System
+
+* Data-driven backend using FastAPI
+
+---
+
+## 📫 Contact
+
+* Email: [Chogunzaza8@gmail.com](mailto:your-email@gmail.com)
+* GitHub: https://github.com/Chogunlnwza
